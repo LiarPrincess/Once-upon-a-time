@@ -1,0 +1,173 @@
+POKŁAD A: NOBILITY
+; Nr; nazwa karty; kategoria
+1; Konkurs; Wydarzenie
+2; Ucieczka; Zdarzenie
+3; Walka; Wydarzenie
+4; Chasing; Event
+5; Ktoś jest ranny; Zdarzenie
+6; uwięziony; zdarzenie
+7; This Breaks; Event
+8; Uratowane *; Zdarzenie INT
+9; Jedzenie; Rzecz
+10; Pierścień; Rzecz
+11; Miecz; Rzecz
+12; Pułapka; Rzecz
+13; Klucz *; Thing-INT
+14; Korona *; Rzecz-INT
+15; Skarb *; Rzecz-INT
+16; Piękny; Aspekt
+17; Odważny; Aspekt
+18; Przebrany; Aspekt
+19; Ukryty; Aspekt
+20; Uzdrowiony; Aspekt
+21; Skradziony; Aspekt
+22; Mądry; Aspekt
+23; Sekret *; Aspekt-INT
+24; Miasto; Miejsce
+25; Loch; Miejsce
+26; Ogród; Miejsce
+27; Pałac; Miejsce
+28; Droga; Miejsce
+29; Wieża; Miejsce
+30; Kościół *; Place-INT
+31; Król; Charakter
+32; Książę; Charakter
+33; Księżniczka; Charakter
+34; Królowa; Charakter
+35; Straż; Charakter
+36; Kucharz; Charakter
+37; Wróg *; INT-Character
+38; Złodziej *; Charakter-INT
+39; I o ile wiem, mogą jeszcze tańczyć w pałacu; Zakończenie
+40; a królestwo cieszyło się pod Zakończenie panowania tyrana; zakończenie
+41; Mimo swojej strasznej zbrodni król zgodził się oszczędzić mu życia; Zakończenie
+42; Jej odwaga uczyniła ją bogatym; Zakończenie
+43; Uciekła z tego okropnego miejsca i uciekła do domu.; Zakończenie
+44; Nigdy więcej nie wypuściła swojego skarbu z pola widzenia; Zakończenie
+45; Więc powiedział jej, że jest księciem, i żyli długo i szczęśliwie; Zakończenie
+46; Więc ujawniła swoją prawdziwą tożsamość i byli małżeństwem; Zakończenie
+47; Więc kucharz przygotował go na ucztę i było pyszne.; Zakończenie
+48; Tak więc król ustąpił i oboje pobrali się; Zakończenie
+49; Królowa dała im nagrodę, jak obiecała; zakończenie
+50; Tak więc prawowity władca został ponownie umieszczony na tronie; Zakończenie
+51; Uciekli więc z niewoli i uciekli do domu; Zakończenie
+52; Zwrócili więc to, co zostało skradzione pierwotnemu właścicielowi; Zakończenie
+53; Król wypełnił swoją stronę umowy i wszyscy byli szczęśliwi.; Zakończenie
+54; Szaleństwo księcia zostało uleczone; Zakończenie
+55; Co oznaczało, że z czasem staną się królem i królową; Zakończenie
+
+POKŁAD B: WSPÓLNICY
+; Nr; nazwa karty; kategoria
+1; Argumentowanie; Zdarzenie
+2; Spanie; Wydarzenie
+3; Zakochać się; Wydarzenie
+4; Dokonywanie psot; Wydarzenie
+5; Spotkanie; Wydarzenie
+6; Planowanie; Wydarzenie
+7; rozstanie Ways *; Event-INT
+8; Jest to objawione *; INT-Event
+9; Topór; Rzecz
+10; Ubrania; Rzecz
+11; Drzwi; Rzecz
+12; Schody; Rzecz
+13; Drzewo; Rzecz
+14; Ściana; Rzecz
+15; Okno; Rzecz
+16; Głupi; Aspekt
+17; Przestraszony; Aspekt
+18; Szczęśliwy; Aspekt
+19; Lucky; Aspect
+20; Smutny; Aspekt
+21; Brzydki; Aspekt
+22; Bardzo silny; Aspekt
+23; Niewidomy *; Aspect-INT
+24; Crazy *; Aspect-INT
+25; Chata; Miejsce
+26; Las; Miejsce
+27; Kuchnia; Miejsce
+28; Rzeka; Miejsce
+29; Wieś; Miejsce
+30; Dom *; Place-INT
+31; Żebrak; Charakter
+32; Brat lub siostra; Charakter
+33; Dziecko; Charakter
+34; Macocha; Charakter
+35; Rodzic; Charakter
+36; Mąż lub żona *; Character-INT
+37; Old Person *; Character-INT
+38; Sierota *; Character-INT
+39; A jego matka była zachwycona tak niezwykłym darem; Zakończenie
+40; I odtąd pamiętała o radzie ojca; od tego dnia
+41; I tak spełniło się proroctwo starej kobiety; Zakończenie
+42; A rodzice zjednoczyli się ze swoim dawno zaginionym dzieckiem; Zakończenie
+43; I pozostali ślepi do końca swoich dni z powodu swojej niegodziwości i kłamstwa;
+44; A gdy umarli, przekazali je swoim dzieciom; Zakończenie
+45; Resztę życia spędził jako żebrak ... co było całkowicie sprawiedliwe.; Zakończenie
+46; Widział błąd na swoich drogach i żył dobrym życiem od tego dnia; Zakończenie
+47; Jego rana została uzdrowiona, ale jego serce pozostało złamane na zawsze; Zakończenie
+48; To po prostu pokazuje, że macochy nie zawsze są tym, czym się wydają.; Kończenie
+49; Więc przebaczył jej i pobrali się; Zakończenie
+50; Uświadomił sobie, jak lojalna była jego siostra.; Zakończenie
+51; Tak więc wioska została przywrócona do dobrobytu; Zakończenie
+52; Więc zmienili miejsca i wszystko wróciło do normy; Zakończenie
+53; Obiecali więc, że nigdy więcej nie będą walczyć; Zakończenie
+54; Co dowodzi, że serce, które jest odważne i prawdziwe, zawsze zatriumfuje na końcu; Zakończenie
+55; Co dowodzi, że zawsze powinieneś być ostrożny przy wyborze towarzyszy.; Kończenie
+
+POKŁAD C: ZEWNĘTRZNE
+; Nr; nazwa karty; kategoria
+1; Zagubiony; Zdarzenie
+2; Znaleziono; Zdarzenie
+3; Podróż; Wydarzenie
+4; This Comes Alive; Wydarzenie
+5; Burza; Zdarzenie
+6; Przepływy czasu; Wydarzenie
+7; Przekształcanie; Wydarzenie
+8; Dying *; Event-INT
+9; Zwrócone *; Event-INT
+10; Książka; Rzecz
+11; Kocioł; Rzecz
+12; Ogień; Rzecz
+13; Zaklęcie; Rzecz
+14; Studnia; Rzecz
+15; Prezent *; Rzecz-INT
+16; Przeklęty; Aspekt
+17; Zatruty; Aspekt
+18; This Can Fly; Aspect
+19; This Can Talk; Aspekt
+20; Malutki; Aspekt
+21; Niegodziwy; Aspekt
+22; Daleko od *; Aspect-INT
+23; Long-lost *; Aspect-INT
+24; Jaskinia; Miejsce
+25; Na niebie; Miejsce
+26; Góra; Miejsce
+27; Noc; Miejsce
+28; Bagno; Miejsce
+29; Królestwo *; Place-INT
+30; Ruin *; Place-INT
+31; Wróżka; Charakter
+32; Gigant; Charakter
+33; Wilk; Charakter
+34; Żaba; Charakter
+35; Koń; Charakter
+36; Potwór; Charakter
+37; Smok; Charakter
+38; Czarownica; Charakter
+39; I tak długo, jak żyła, nigdy nie można go usunąć.; Zakończenie
+40; I tak wiedźma zginęła we własnym kociołku.; Zakończenie
+41; Pobity, ohydne stworzenie wypędzono z królestwa; Zakończenie
+42; Ale bez względu na to, jak ciężko przeszukali, nigdy więcej nie mogli go znaleźć.; Zakończenie
+43; Każdego dnia widział wynik swego nieposłuszeństwa i płakał;
+44; Został uwolniony z zaklęcia i następnego dnia pobrali się; Zakończenie
+45; Tak więc został przekształcony z powrotem w ludzką postać; Zakończenie
+46; Więc wiedziała, że ​​jej gościem przez cały czas był potwór; Zakończenie
+47; A więc złoczyńcy zostali zrzuceni do studni; Zakończenie
+48; Więc zaklęcie zostało złamane i byli wolni; Zakończenie
+49; Klątwa została zniesiona, jak przepowiedziano; Zakończenie
+50; Płomienie wzrosły wyżej, a niegodziwe miejsce zostało zniszczone;
+51; Potwór został zniszczony, a miasto znów było bezpieczne.; Zakończenie
+52; zostali pochowani w tym samym grobie, a królestwo ich opłakiwało;
+53; Prawdziwa miłość przerwała zaklęcie; Zakończenie
+54; W ten sposób królestwo otrzymało tak niezwykłą nazwę; Zakończenie
+55; Gdy wróg nie żyje, mogą się wreszcie pobrać.; Zakończenie

@@ -1,0 +1,173 @@
+DECK A: NOBILITY
+; No.;Card Name;Category
+1;Contest;Event
+2;Escaping;Event
+3;Fighting;Event
+4;Chasing;Event
+5;Someone is Hurt;Event
+6;Imprisoned;Event
+7;This Breaks;Event
+8;Rescued*;Event-INT
+9;Food;Thing
+10;Ring;Thing
+11;Sword;Thing
+12;Trap;Thing
+13;Key*;Thing-INT
+14;Crown*;Thing-INT
+15;Treasure*;Thing-INT
+16;Beautiful;Aspect
+17;Brave;Aspect
+18;Disguised;Aspect
+19;Hidden;Aspect
+20;Healed;Aspect
+21;Stolen;Aspect
+22;Wise;Aspect
+23;Secret*;Aspect-INT
+24;City;Place
+25;Dungeon;Place
+26;Garden;Place
+27;Palace;Place
+28;Road;Place
+29;Tower;Place
+30;Church*;Place-INT
+31;King;Character
+32;Prince;Character
+33;Princess;Character
+34;Queen;Character
+35;Guard;Character
+36;Cook;Character
+37;Enemy*;Character-INT
+38;Thief*;Character-INT
+39;And for all I know they may be dancing in the palace still.;Ending
+40;And the kingdom rejoiced at the end of the tyrant's reign.;Ending
+41;Despite his terrible crime, the king agreed to spare his life.;Ending
+42;Her courage had made her rich.;Ending
+43;She escaped that awful place and fled home.;Ending
+44;She never let her treasure out of her sight again.;Ending
+45;So he told her he was the prince and they lived happily ever after.;Ending
+46;So she revealed her true identity and they were married.;Ending
+47;So the cook prepared it for the feast and it was delicious.;Ending
+48;So the king relented and the two were married.;Ending
+49;So the queen gave them the prize as she had promised.;Ending
+50;So the rightful ruler was placed on the throne once more.;Ending
+51;So they escaped their captors and fled home.;Ending
+52;So they returned what was stolen to its original owner.;Ending
+53;The king fulfilled his side of the bargain and everyone was happy.;Ending
+54;The prince's madness was cured.;Ending
+55;Which meant they would become king and queen in the course of time.;Ending
+
+DECK B: COMMONERS
+; No.;Card Name;Category
+1;Arguing;Event
+2;Sleeping;Event
+3;Falling in Love;Event
+4;Making Mischief;Event
+5;Meeting;Event
+6;Planning;Event
+7;Parting Ways*;Event-INT
+8;This is Revealed*;Event-INT
+9;Axe;Thing
+10;Clothes;Thing
+11;Door;Thing
+12;Stairs;Thing
+13;Tree;Thing
+14;Wall;Thing
+15;Window;Thing
+16;Foolish;Aspect
+17;Frightened;Aspect
+18;Happy;Aspect
+19;Lucky;Aspect
+20;Sad;Aspect
+21;Ugly;Aspect
+22;Very Strong;Aspect
+23;Blind*;Aspect-INT
+24;Crazy*;Aspect-INT
+25;Cottage;Place
+26;Forest;Place
+27;Kitchen;Place
+28;River;Place
+29;Village;Place
+30;Home*;Place-INT
+31;Beggar;Character
+32;Brother or Sister;Character
+33;Child;Character
+34;Stepmother;Character
+35;Parent;Character
+36;Husband or Wife*;Character-INT
+37;Old Person*;Character-INT
+38;Orphan*;Character-INT
+39;And his mother was delighted with such an unusual gift.;Ending
+40;And she kept her father's advice in mind from that day onwards.;Ending
+41;And so the old woman's prophecy had been fulfilled.;Ending
+42;And the parents were reunited with their long-lost child.;Ending
+43;And they remained blind for the rest of their days for their wickedness and falsehood.;Ending
+44;And when they died they passed it on to their children.;Ending
+45;He lived the rest of his life as a beggar ... which was perfectly just.;Ending
+46;He saw the error of his ways and lived a good life from that day forward.;Ending
+47;His wound was healed but his heart remained broken forever.;Ending
+48;It just shows that stepmothers aren't always what they seem.;Ending
+49;So he forgave her and they were married.;Ending
+50;So he realized how loyal his sister had been.;Ending
+51;So the village was restored to prosperity.;Ending
+52;So they changed places and everything was back to normal.;Ending
+53;So they promised never to fight again.;Ending
+54;Which proves that a heart that is brave and true will always triumph in the end.;Ending
+55;Which proves you should always be careful when choosing your companions.;Ending
+
+DECK C: OUTSIDERS
+; No.;Card Name;Category
+1;Lost;Event
+2;Found;Event
+3;Journey;Event
+4;This Comes Alive;Event
+5;Storm;Event
+6;Time Passes;Event
+7;Transforming;Event
+8;Dying*;Event-INT
+9;Returned*;Event-INT
+10;Book;Thing
+11;Cauldron;Thing
+12;Fire;Thing
+13;Spell;Thing
+14;A Well;Thing
+15;Gift*;Thing-INT
+16;Cursed;Aspect
+17;Poisoned;Aspect
+18;This Can Fly;Aspect
+19;This Can Talk;Aspect
+20;Tiny;Aspect
+21;Wicked;Aspect
+22;Far Away*;Aspect-INT
+23;Long-lost*;Aspect-INT
+24;Cave;Place
+25;In the Sky;Place
+26;Mountain;Place
+27;Night;Place
+28;Swamp;Place
+29;Kingdom*;Place-INT
+30;Ruin*;Place-INT
+31;Fairy;Character
+32;Giant;Character
+33;Wolf;Character
+34;Frog;Character
+35;Horse;Character
+36;Monster;Character
+37;Dragon;Character
+38;Witch;Character
+39;And as long as she lived it could never be removed.;Ending
+40;And so the witch perished in her own cauldron.;Ending
+41;Beaten, the foul creature was driven out of the kingdom.;Ending
+42;But no matter how hard they searched they were never able to find it again.;Ending
+43;Every day he saw the result of his disobedience, and wept.;Ending
+44;He was freed from his enchantment and the next day they were married.;Ending
+45;So it was transformed back into human form.;Ending
+46;So she knew that her visitor had been a monster all along.;Ending
+47;So the evil-doers were thrown down a well.;Ending
+48;So the spell was broken and they were free.;Ending
+49;The curse was lifted as had been foretold.;Ending
+50;The flames rose higher and the wicked place was destroyed.;Ending
+51;The monster was destroyed and the city was safe once more.;Ending
+52;They were buried in the same grave, and the kingdom mourned them.;Ending
+53;True love had broken the enchantment.;Ending
+54;Which is how the kingdom got such an unusual name.;Ending
+55;With the enemy dead they could get married at last.;Ending
